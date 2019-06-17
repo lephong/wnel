@@ -1,4 +1,4 @@
-wnel: A weak supervised learning approach for entity linking
+wnel: A weakly supervised learning approach for entity linking
 ========
 
 A Python implementation of the approach proposed in
