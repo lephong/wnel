@@ -20,7 +20,7 @@ some files related to Freebase have to be loaded.
 
 #### Data
 
-Download data from [here](https://drive.google.com/...) 
+Download data from [here](https://drive.google.com/file/d/1rKg2jI87Mg_iQD7LgcqbjP4CYjhsf-CU/view?usp=sharing) 
 and unzip to the main folder (i.e. your-path/wnel).
 
 
