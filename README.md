@@ -30,6 +30,8 @@ To train, from the main folder run
     
     python3 -u -m nel.main --mode train --inference star --multi_instance --n_negs 5 --margin 0.1 --n_rels 1  --eval_after_n_epochs 6 --n_epochs 6  --ent_top_n 30 --preranked_data data/generated/test_train_data/preranked_all_datasets_50kRCV1_large --n_not_inc 50 --n_docs 50000
 
+**IMPORTANT: if you want to train the model from scratch, you have to remove the current saved model (if exists, by `rm model.*`).**
+
 Using a GTX 1080 Ti GPU it will take about 30 minutes. The output is a model saved in two files: 
 `model.config` and `model.state_dict` . 
 
