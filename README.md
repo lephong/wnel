@@ -1,9 +1,9 @@
-wnel: A weakly supervised learning approach for entity linking
+wnel: A weakly supervised learning approach to entity linking
 ========
 
 A Python implementation of the approach proposed in
 
-[1] Phong Le and Ivan Titov (2019). [Boosting Entity Linking Performance by Leveraging Unlabeled Documents](https://arxiv.org/pdf/1906.01250.pdf).
+[1] Phong Le and Ivan Titov (2019). [Boosting Entity Linking Performance by Leveraging Unlabeled Documents](https://arxiv.org/pdf/1906.01250.pdf). ACL 2019.
 
 Written and maintained by Phong Le (lephong.xyz [at] gmail.com)
 
